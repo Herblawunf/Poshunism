@@ -1,5 +1,8 @@
 .mainTitle {
-    color: rgb(228, 90, 228);
+    color: #B1BDCD;
+    background-color: #663366;
     font-family: "Trattatello", fantasy,sans-serif;
     text-align: center;
+    border: 17px solid #660F57 ;
+    margin: 20px;
 }
