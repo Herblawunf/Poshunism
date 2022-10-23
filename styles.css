@@ -6,3 +6,14 @@
     border: 17px solid #660F57 ;
     margin: 20px;
 }
+
+.peopleTitle {
+    color: #E8EDE7;
+    background-color: #81BECE;
+    font-family: "Trattatello", fantasy,sans-serif;
+    text-align: center;
+    border: 10px solid #378BA4 ;
+    margin-left: 20px; 
+    margin-top: -10px;
+    width: 300px;
+}
